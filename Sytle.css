@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(255, 255, 255), 255);
+    color:aliceblue;
+}
+
+.Nanda.musicas{
+    color: #22d4fd
+}
+
+
+.Nanda.musicas
+{
+    margin: 30;
+    padding: 68;
+
+}
+
+.Href{
+    display: flex;
+    justify-content: space-between;
+}
+.Href{
+    background-color: #ffffff;
+    width: 280px;
+  text-align: center;
+  border: 16px;
+  font-size: 24px;
+  font-weight: 600;
+  padding: 21.5px; 
+  text-decoration:nome;
+  color:#000000;
+  font-family: "Monteserrat", sans-serit;
+}
+#cor {
+    background-color: rgb(35, 109, 51);
+    text-align: center;
+  }
+
+  .vermelho {
+    color: #f33;
+  }
+  
+  .amarelo-bg {
+    background: #ffa;
+  }
+  
+  .elegante {
+    font-weight: bold;
+    color:#000000
+  }
+  .centralizado {
+    text-align: center;
+  }
